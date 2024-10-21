@@ -22,7 +22,7 @@ title_separator          : "|"
 subtitle                 : "One Step At a Time" site tagline that appears below site title in masthead
 name                     : "Abby's Vault"
 description              : "Gen AI Enthusiast"
-url                      : "https://taurus09318976.github.io"
+url                      : "https://taurus09318976.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : taurus09318976/taurus09318976.github.io # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
